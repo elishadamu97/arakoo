@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API section
+title: API Section
 nav_order: 2
 ---
 
