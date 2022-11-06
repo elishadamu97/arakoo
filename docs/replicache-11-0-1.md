@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Blog
-
 ---
 
 # **Replicache 11.0.1**

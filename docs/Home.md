@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Home-Uncompleted
-nav_order: 2
+
 ---
 <iframe width="708" height="423" src="https://www.youtube.com/embed/GTid9iwWX0Y" title="Replicache / Repliear Demo - 20220503.4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

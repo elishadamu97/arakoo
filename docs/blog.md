@@ -38,7 +38,7 @@ Making JavaScript UTF-16 strings sort as UTF-8 because reasons.
 
 **`May 28, 2022`**
 
-## [Building an incredible UX as a one-person startup](https://blog.replicache.dev/blog/incredible-ux-one-person-startup)
+## [Building an incredible UX as a one-person startup](../incredible-ux-one-person-startup)
 <br>
 [UX](#getting-started){: : .btn .btn-primary .fs-3 .mb-2 .mb-md-0 .mr-1  }
 [interviews](#getting-started){: : .btn .btn-primary .fs-3 .mb-2 .mb-md-0 .mr-1  }
@@ -49,7 +49,7 @@ Chad Burggraf talks to us about how Replicache helps him deliver an incredible U
 
 **`May 20, 2022`**
 
-## [How We Built Repliear: Compound Filters](https://blog.replicache.dev/blog/how-we-built-repliear-compound-filters)
+## [How We Built Repliear: Compound Filters](../incredible-ux-one-person-startup.)
 <br>
 [retropective](#getting-started){: : .btn .btn-primary .fs-3 .mb-2 .mb-md-0 .mr-1  }
 
@@ -64,3 +64,4 @@ After two years of beta development and intense iteration with customers like Ve
 **Published on**
 
 **`May 22, 2022`**
+
