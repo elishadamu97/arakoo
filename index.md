@@ -134,5 +134,5 @@ You can [get started with Replicache](https://doc.replicache.dev/) in about five
 
 More questions? Comments? Contact us on [Discord](https://discord.replicache.dev/), [Twitter](https://twitter.com/replicache) or by [email](hello@replicache.dev). We would love to talk.
 
-<hr>
+
 [Discuss on Twitter](https://twitter.com/share?url=https%3A%2F%2Fblog.replicache.dev%2Fblog%2Fhow-we-built-repliear-compound-filters)
